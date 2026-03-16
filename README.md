@@ -1,0 +1,1 @@
+Este arquivo apresenta um exemplo de modelo de documento de modelagem de software, utilizado como referência para descrever a estrutura, os componentes e o funcionamento de um sistema em desenvolvimento.
